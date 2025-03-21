@@ -60,4 +60,4 @@ The **Real-Time Face Attendance System** is an effective and efficient way to tr
 To clone this repository to your local machine, run the following command:
 
 ```bash
-git clone https://github.com/addy-vi/Live-Face-Attendance-System.git
+git clone https://github.com/adnan-saif/Live-Face-Attendance-System.git
